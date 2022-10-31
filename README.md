@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @love-bhardwaj - Software Engineer @Snyk ✨
 
-Visit my website [lovebhardwaj.com]
+Visit my [website](lovebhardwaj.com)
 
 I have a masters degree in Electronics Systems Engineering a bachelors degree in Electronics and Communctions. Early on in my life I did not have access to a computer until 8th or 9th grade 😅. Even after that I didn't have the exposure to programming 💻. But during my college/university days, I came accross various programming concepts and some or most of them weren't even part of my curriculum. So, you can say I am self taught soft developer. Now every day in my life is about learning and sharing my knowledge with other, who may be going through the same journey.
 
